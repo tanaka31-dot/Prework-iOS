@@ -15,6 +15,7 @@
 		B130AA222661B0B70034D8AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B130AA202661B0B70034D8AB /* LaunchScreen.storyboard */; };
 		B130AA2D2661B0B80034D8AB /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B130AA2C2661B0B80034D8AB /* PreworkTests.swift */; };
 		B130AA382661B0B80034D8AB /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B130AA372661B0B80034D8AB /* PreworkUITests.swift */; };
+		B130AA462662ED040034D8AB /* HelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B130AA452662ED040034D8AB /* HelpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B130AA332661B0B80034D8AB /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B130AA372661B0B80034D8AB /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		B130AA392661B0B80034D8AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B130AA452662ED040034D8AB /* HelpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B130AA152661B0B20034D8AB /* AppDelegate.swift */,
 				B130AA172661B0B20034D8AB /* SceneDelegate.swift */,
 				B130AA192661B0B20034D8AB /* ViewController.swift */,
+				B130AA452662ED040034D8AB /* HelpViewController.swift */,
 				B130AA1B2661B0B20034D8AB /* Main.storyboard */,
 				B130AA1E2661B0B70034D8AB /* Assets.xcassets */,
 				B130AA202661B0B70034D8AB /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				B130AA1A2661B0B20034D8AB /* ViewController.swift in Sources */,
 				B130AA162661B0B20034D8AB /* AppDelegate.swift in Sources */,
 				B130AA182661B0B20034D8AB /* SceneDelegate.swift in Sources */,
+				B130AA462662ED040034D8AB /* HelpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
