@@ -22,6 +22,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         billAmountTextField.becomeFirstResponder()
+        
         // Do any additional setup after loading the view.
     }
     
