@@ -33,7 +33,7 @@ GIF created with [Recordit](https://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Connecting multiple items to the same IBaction.
+*Connecting multiple items to the same IBaction.
 
 ## License
 
