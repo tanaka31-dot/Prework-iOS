@@ -2,7 +2,7 @@
 
 Submitted by: **Tanaka Muchemwa**
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -19,8 +19,10 @@ The following **optional** features are implemented:
 * [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-[x] added a help screen
+- [x] added a help screen
 - [x] added app icon and splash screen.
+- [x] user can split bill with up to ten people
+
 
 ## Video Walkthrough
 
